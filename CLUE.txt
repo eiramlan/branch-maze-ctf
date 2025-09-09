@@ -1,0 +1,1 @@
+Clue → Next branch diverged from commit "Old bridge". Look for **left** in its name.
