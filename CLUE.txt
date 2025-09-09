@@ -1,0 +1,2 @@
+Clue → From this lookout point, a path climbs to the mountain pass.
+Find branch named **feature/mountain-pass**.
