@@ -1,3 +1,6 @@
+Name: Van-Mario Caval
+ID: 21441846
+
 Phrase 1: We version control our past,
 
 Phrase 2: but AI version controls possibilities,
